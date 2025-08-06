@@ -2,8 +2,10 @@
 A lightweight layout system for HTML that enables precise, canvas-like positioning of DOM elements using structured data. UnitCanvas separates structure from presentation for highly maintainable, programmatically generated interfaces.
 
 UnitCanvas は、HTML要素をキャンバスのように自由に配置するための軽量レイアウト手法です。
-
 各要素（divなど）は HTML で構造として記述し、座標やサイズ、装飾は CSS で管理します。従来のグリッドやフローに依存せず、ピクセル単位で正確なUIレイアウトが可能です。
+
+### 開発メモ
+- vs-codeでHTML previewを使う時、refresh previewやchange security settingsが使える。
 
 ## 特徴
 
