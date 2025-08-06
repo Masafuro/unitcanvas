@@ -1,9 +1,11 @@
 .canvas{
     position: relative;
     width: 800px;
-    height: 600px;
+    height: 1200px;
     margin: 20px auto 0;
     background-color: #eff8a0;
+    background-image: url("images/grid_20_20.png");
+    background-repeat: no-repeat;
 
 }
 
@@ -21,14 +23,14 @@ text-align: justify;
   margin: 0;
   font-family: sans-serif;
   font-size: 16px;
-  background-color: #f0f0f0;
+  /* background-color: #f0f0f0; */
   box-sizing: border-box;
 }
 
 
 /* 個別レイアウト */
 #box1 {
-    font-size: 36px;
+  font-size: 36px;
   top: 100px;
   left: 120px;
   width: 200px;
