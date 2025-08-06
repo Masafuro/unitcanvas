@@ -15,6 +15,12 @@ UnitCanvas は、HTML要素をキャンバスのように自由に配置する�
 - レスポンシブ対応もメディアクエリで明快に制御
 - DOMベースのため、コピー・SEO・アクセシビリティにも対応
 
+### サンプル表示
+<img width="1155" height="584" alt="スクリーンショット 2025-08-07 081721" src="https://github.com/user-attachments/assets/944d3bcf-0536-48f5-876c-799964c31173" />
+<img width="471" height="550" alt="スクリーンショット 2025-08-07 081653" src="https://github.com/user-attachments/assets/efea1a36-75d3-4779-adea-790dac1e60a3" />
+
+
+
 ## 基本構成
 
 HTML: 要素を定義
