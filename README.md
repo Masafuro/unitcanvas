@@ -4,9 +4,6 @@ A lightweight layout system for HTML that enables precise, canvas-like positioni
 UnitCanvas は、HTML要素をキャンバスのように自由に配置するための軽量レイアウト手法です。
 各要素（divなど）は HTML で構造として記述し、座標やサイズ、装飾は CSS で管理します。従来のグリッドやフローに依存せず、ピクセル単位で正確なUIレイアウトが可能です。
 
-### 開発メモ
-- vs-codeでHTML previewを使う時、refresh previewやchange security settingsが使える。
-
 ## 特徴
 
 - top, left, width, height を使った絶対座標指定
@@ -15,7 +12,14 @@ UnitCanvas は、HTML要素をキャンバスのように自由に配置する�
 - レスポンシブ対応もメディアクエリで明快に制御
 - DOMベースのため、コピー・SEO・アクセシビリティにも対応
 
+### サンプル表示
+<img width="1155" height="584" alt="スクリーンショット 2025-08-07 081721" src="https://github.com/user-attachments/assets/944d3bcf-0536-48f5-876c-799964c31173" />
+<img width="471" height="550" alt="スクリーンショット 2025-08-07 081653" src="https://github.com/user-attachments/assets/efea1a36-75d3-4779-adea-790dac1e60a3" />
+
+
+
 ## 基本構成
+主な考え方を以下に示します。実際のクラス名等はソースコードを参照ください。
 
 HTML: 要素を定義
 ```html
