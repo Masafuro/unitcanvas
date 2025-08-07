@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "ZenOldMincho-Black";
+  src:  url("./subfonts/ZenOldMincho-Black.woff2") format("woff2"),
+        url("./subfonts/ZenOldMincho-Black.woff") format("woff"),
+        url("./fonts/ZenOldMincho-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+.f_ZenOldMincho-Black{
+    font-family: 'ZenOldMincho-Black', sans-serif;
+}
