@@ -11,11 +11,6 @@ HTML要素をキャンバスのように自由に配置する `UnitCanvas` レ�
 
 デザイナーやコンテンツ編集者は、HTMLとCSS、簡単なコマンド操作で、デザインの制作や調整が可能です。
 
-## サンプル
-
-<img width="1155" alt="サンプル画像1" src="https://github.com/user-attachments/assets/944d3bcf-0536-48f5-876c-799964c31173" />
-<img width="471" alt="サンプル画像2" src="https://github.com/user-attachments/assets/efea1a36-75d3-4779-adea-790dac1e60a3" />
-
 ### 利用サンプル
 <img width="1155" height="584" alt="スクリーンショット 2025-08-07 081721" src="https://github.com/user-attachments/assets/944d3bcf-0536-48f5-876c-799964c31173" />
 <img width="471" height="550" alt="スクリーンショット 2025-08-07 081653" src="https://github.com/user-attachments/assets/efea1a36-75d3-4779-adea-790dac1e60a3" />
